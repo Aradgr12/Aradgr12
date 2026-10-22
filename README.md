@@ -5,16 +5,16 @@ Electrical Engineering **graduate** (B.Sc., VLSI specialization) from Shenkar Co
 ## Featured projects
 
 - **[NEXYS-A7-ALU](https://github.com/Aradgr12/NEXYS-A7-ALU)** – 6-operation ALU on FPGA with a debounce FSM, 2-FF synchronizer, double-dabble BCD conversion and per-module testbenches (Verilog, Vivado, Nexys A7)
-- **[VeinVision](https://github.com/Aradgr12/veinvision)** – NIR vein detection and projection system, B.Sc. capstone project (Raspberry Pi 4, NoIR camera, 850 nm LEDs) · [Project page](https://aradgr12.github.io/veinvision/)
 - **[Chip-Design-Verification-Labs](https://github.com/Aradgr12/Chip-Design-Verification-Labs)** – Labs from the Google x NVIDIA program: adders, 7-segment controller, UART transmitter (Verilog, Nexys A7)
 - **[mips-interrupt-rtl](https://github.com/Aradgr12/mips-interrupt-rtl)** – Interrupt / ISR extension to a single-cycle MIPS processor, with EPC logic and testbench (course project)
 
 ## Tools & skills
 
 - **HDL:** Verilog, SystemVerilog (basic)
-- **Tools:** Vivado, ModelSim / Questa, Quartus, Git
+- **Simulation & verification:** ModelSim / Questa, Vivado xsim, module-level and self-checking testbenches
+- **FPGA flow:** Vivado, Quartus, pin constraints (XDC), on-board testing
 - **Boards:** Digilent Nexys A7, Basys 3
-- **Concepts:** FSM design, synchronous design, CDC basics (2-FF synchronizers), button debouncing, processor architecture, testbenches
+- **Version control:** Git
 
 ## Currently
 
