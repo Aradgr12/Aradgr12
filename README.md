@@ -10,7 +10,7 @@ Electrical Engineering **graduate** (B.Sc., VLSI specialization) from Shenkar Co
   - [Lab04 – UART TX Controller](https://github.com/Aradgr12/Chip-Design-Verification-Labs/tree/main/Lab04-UART-TX-Controller) – FSM-based transmitter with debounced button and configurable patterns
   - [Lab05 – UART TRX Controller](https://github.com/Aradgr12/Chip-Design-Verification-Labs/tree/main/Lab05-UART-TRX-Controller) – full-duplex-ready TX/RX with 16x oversampling, message parser and self-checking SystemVerilog testbenches
 - **[mips-interrupt-rtl](https://github.com/Aradgr12/mips-interrupt-rtl)** – Interrupt / ISR extension to a single-cycle MIPS processor, with EPC logic and testbench (course project)
-- - **[NEXYS-A7-ALU](https://github.com/Aradgr12/NEXYS-A7-ALU)** – 6-operation ALU on FPGA with a debounce FSM, 2-FF synchronizer, double-dabble BCD conversion and per-module testbenches (Verilog, Vivado, Nexys A7)
+- **[NEXYS-A7-ALU](https://github.com/Aradgr12/NEXYS-A7-ALU)** – 6-operation ALU on FPGA with a debounce FSM, 2-FF synchronizer, double-dabble BCD conversion and per-module testbenches (Verilog, Vivado, Nexys A7)
 
 ## Tools & skills
 
