@@ -1,6 +1,14 @@
 # Hi, I'm Arad Greenshtein 👋
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-arad--greenshtein-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arad-greenshtein-214022338/)
+[![Email](https://img.shields.io/badge/Email-aradgr%40gmail.com-555555?logo=gmail&logoColor=white)](mailto:aradgr@gmail.com)
+![Location](https://img.shields.io/badge/Ramat%20Gan,%20Israel-555555)
+
 Electrical Engineering **graduate** (B.Sc., VLSI specialization) from Shenkar College, and a participant in the **Google x NVIDIA Chip Design & Verification** program at Reichman University. I'm looking for an entry-level **RTL / Digital Design, FPGA or ASIC** position.
+
+## Experience
+
+- **Engineering Configuration Student** – [Credo](https://credosemi.com) (formerly DustPhotonics), Modi'in · Oct 2025 – Present
 
 ## Featured projects
 
@@ -20,9 +28,3 @@ Electrical Engineering **graduate** (B.Sc., VLSI specialization) from Shenkar Co
 - **Boards:** Digilent Nexys A7, Basys 3
 - **Version control:** Git
 
-## Currently
-
-- **Configuration Engineer Student at Credo** – configuration management and product traceability (BOMs, ECOs/MCOs) for high-speed optical communication products, working with Hardware, R&D and Manufacturing teams
-- Building RTL projects step by step: spec → block diagram → FSM → waveforms → RTL → testbench → board
-
-📫 [LinkedIn](https://www.linkedin.com/in/arad-greenshtein-214022338/) · aradgr@gmail.com
