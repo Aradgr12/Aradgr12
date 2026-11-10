@@ -14,7 +14,7 @@ Electrical Engineering **graduate** (B.Sc., VLSI specialization) from Shenkar Co
 
 ## Tools & skills
 
-- **HDL:** Verilog, SystemVerilog (basic)
+- **HDL:** Verilog, SystemVerilog 
 - **Simulation & verification:** ModelSim / Questa, Vivado xsim, module-level and self-checking testbenches
 - **FPGA flow:** Vivado, Quartus, pin constraints (XDC), on-board testing
 - **Boards:** Digilent Nexys A7, Basys 3
