@@ -5,7 +5,11 @@ Electrical Engineering **graduate** (B.Sc., VLSI specialization) from Shenkar Co
 ## Featured projects
 
 - **[NEXYS-A7-ALU](https://github.com/Aradgr12/NEXYS-A7-ALU)** – 6-operation ALU on FPGA with a debounce FSM, 2-FF synchronizer, double-dabble BCD conversion and per-module testbenches (Verilog, Vivado, Nexys A7)
-- **[Chip-Design-Verification-Labs](https://github.com/Aradgr12/Chip-Design-Verification-Labs)** – Labs from the Google x NVIDIA program: adders, 7-segment controller, UART transmitter (Verilog, Nexys A7)
+- **[Chip-Design-Verification-Labs](https://github.com/Aradgr12/Chip-Design-Verification-Labs)** – Labs from the Google x NVIDIA program (Verilog / SystemVerilog, Vivado, Nexys A7):
+  - [Lab02 – 8-bit Adder](https://github.com/Aradgr12/Chip-Design-Verification-Labs/tree/main/Lab02-8bit-Adder-Beh-vs-Str) – behavioral vs. structural modeling
+  - [Lab03 – 7-Segment Controller](https://github.com/Aradgr12/Chip-Design-Verification-Labs/tree/main/Lab03-7Segment-Controller) – time-multiplexed 8-digit display
+  - [Lab04 – UART TX Controller](https://github.com/Aradgr12/Chip-Design-Verification-Labs/tree/main/Lab04-UART-TX-Controller) – FSM-based transmitter with debounced button and configurable patterns
+  - [Lab05 – UART TRX Controller](https://github.com/Aradgr12/Chip-Design-Verification-Labs/tree/main/Lab05-UART-TRX-Controller) – full-duplex-ready TX/RX with 16x oversampling, message parser and self-checking SystemVerilog testbenches
 - **[mips-interrupt-rtl](https://github.com/Aradgr12/mips-interrupt-rtl)** – Interrupt / ISR extension to a single-cycle MIPS processor, with EPC logic and testbench (course project)
 
 ## Tools & skills
